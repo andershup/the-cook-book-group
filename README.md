@@ -5,9 +5,9 @@
 <br>
 <br>
 
-## Table of content:
+# Table of content:
 
-1.[**Project Goals**](#Project-Purpose)
+1.[**Project Goals**](#project-purpose)
 
 2.[**Site Goals**](#site-goals)
 
@@ -22,12 +22,12 @@
 
 
 
-### Project Purpose
+## Project Purpose
 
 1. To build a full stack site that allows all users to manage a common dataset of shared recipes.
 2. To provide an opportunity for the owner to collect all data provided for future use.
 
-### Site goals:
+## Site goals
 
 1. First and foremost this should be a site that allow a user to easily acces recipes and be provided with basic instructions for its use.
 1. The users should be able to share their recipes with the group. This will include details of the recipe such as ingredients, cooking time, amount of people it serves, cooking instructions etc.
@@ -36,16 +36,28 @@
 4. The user should have the option of having their recipe analysed for it's nutrition and it be added to the recipe.
 4. Other users will then have the ability to edit and improve on all recipes wihtin the group.
 
-### User stories:
+## User stories
 
-1. I want to be able to quickly access the detailed instrucitons for any recipe in the group.
-2. I want to be able to quickly and easily choose a category when I am either using, adding or editing recipes.
-2. I want to be able to add my own reicpes to the group and be able to give a clear presentation of the recipe and instructions for its use.
-3. I want other within the group to be able to alter and ammend any of my recipes if they believe it improves the recipe.
-3. I want to have a one click solution to analysing the nutritional value of the recipe and have it presented to me in a format that is familiar to me.
+1. As a user, I want to **quickly access the detailed instrucitons for any recipe in the group.** so that I can **cook using the information presented to me**.
+2. As a user, I want to **quickly and easily choose a category whether I am using, adding or editing recipes.** so that I can **narrow down the type of recipe I am intending to use/aad/edit/delete**
+2. As a user, I want to **add my own reicpes to the group and be able to give a clear presentation of the recipe and instructions for its use** so that I can **allow friends and family to enjoy the recipe simply and correctly**
+3. As a user, I want to **alter and ammend any of my recipes if I believe it improves the recipe** so that I can **help the group as a whole improve the recipes** 
+3. As a user, I want to **have a one click solution to analysing the nutritional value of the recipe and have it presented to me in a format that is familiar to me **so that I can **allow the other users to make an informed choice about the nutritional value of my recipe** 
+3. As a user, I want to **be able to easily navigate back to the home as well as between pages**
 
+## UX
 
+* The site should **have it's features emmidiately accesable to a user** 
+* The site should **be easily navigated from page to page as it's purpose will be to assist the user in cooking rather then being their main focus of attention**
+* The site should **feel clean, simple and most of all intuative to the user as it will be the central hup for a commen family/friends experience**
+* The site should **be a familar place to return to after the initial intuatively learned experience** 
 
+## UI
+
+- A mobile first approach to design will be used.
+- A navbar with the website title as a central feature. A home button to allow easy navigation back to the main page. A dropdown menu with the main options will feature on the the right side
+- Three simple and clear buttons in the main body of the landing page will provide easy options for lookin up, adding and editing recipes.
+- A footer with basic website information
 
 ## Design
 
@@ -54,4 +66,5 @@
 ### Colours
 
 ## technology used:
+
 * materialize version 0.110.2
