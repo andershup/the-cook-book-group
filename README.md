@@ -7,8 +7,11 @@
 
 ## Table of content:
 
-1.[**Project Goals**](#Project-goals)
+1.[**Project Goals**](#Project-Purpose)
 
+2.[**Site Goals**](#site-goals)
+
+3.[**User Stories**](#user-stories)
 
 
 
@@ -39,7 +42,8 @@
 2. I want to be able to quickly and easily choose a category when I am either using, adding or editing recipes.
 2. I want to be able to add my own reicpes to the group and be able to give a clear presentation of the recipe and instructions for its use.
 3. I want other within the group to be able to alter and ammend any of my recipes if they believe it improves the recipe.
-3. 
+3. I want to have a one click solution to analysing the nutritional value of the recipe and have it presented to me in a format that is familiar to me.
+
 
 
 
