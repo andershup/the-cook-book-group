@@ -7,20 +7,25 @@
 
 # Table of content:
 
-1.[**Project Purpose**](#project-purpose)
+1 [Project Purpose](#project-purpose)
 
-2.[**Site Goals**](#site-goals)
+2 [User Stories](#user-stories)
 
-3.[**User Stories**](#user-stories)
+3 [UX](#ux)
 
+4 [UI](#ui)
 
+5 [Wireframes](#wireframes)
 
+6 [Testing](#testing)
 
+7 [Deployment](#deployment)
 
+8 [Technologies used](#technologies-used)
 
+9 [Tools](#tools)
 
-
-
+10 [Code](#code)
 
 ## Project Purpose
 
@@ -56,16 +61,23 @@
 - Three simple and clear buttons in the main body of the landing page will provide easy options for lookin up, adding and editing recipes.
 - A footer with basic website information
 
-
-## Wireframes
+## WIREFRAMES
 
 (See wireframes folder)
 
-## Fonts
+## TESTING
 
-Google fonts wil be used thoughout. The font-familes will be indie flower and pangolin.
+[link to testing file]
 
-## Colours
+## DEPLOYMENT
+
+### How to run this project 
+
+### All deployment tested on the following
+
+#### HARDWARE
+
+#### SOFTWARE
 
 
 
@@ -92,8 +104,24 @@ Google fonts wil be used thoughout. The font-familes will be indie flower and pa
 
 - [colorpicker.com](https://www.ginifab.com/feeds/pms/color_picker_from_image.php)
 - [whimsical Wireframes](https://whimsical.com/wireframes)
+- [Edamam nutritional analysist API](https://developer.edamam.com/edamam-docs-nutrition-api)
 
+## CODE
 
-## Testing
+adapted from:
 
-[link to testing file]
+## Fonts
+
+Google fonts wil be used thoughout. The font-familes will be indie flower and pangolin.
+
+## Colours
+
+## Images 
+
+## Inspiration
+
+## Credits
+
+## Please note
+
+## Disclaimer
