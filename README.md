@@ -7,7 +7,7 @@
 
 # Table of content:
 
-1.[**Project Goals**](#project-purpose)
+1.[**Project Purpose**](#project-purpose)
 
 2.[**Site Goals**](#site-goals)
 
@@ -27,15 +27,6 @@
 1. To build a full stack site that allows all users to manage a common dataset of shared recipes.
 2. To provide an opportunity for the owner to collect all data provided for future use.
 
-## Site goals
-
-1. First and foremost this should be a site that allow a user to easily acces recipes and be provided with basic instructions for its use.
-1. The users should be able to share their recipes with the group. This will include details of the recipe such as ingredients, cooking time, amount of people it serves, cooking instructions etc.
-2. The user should be able to add their name to their recipe.
-3. The user should be able to add their own image of their recipe.
-4. The user should have the option of having their recipe analysed for it's nutrition and it be added to the recipe.
-4. Other users will then have the ability to edit and improve on all recipes wihtin the group.
-
 ## User stories
 
 1. As a user, I want to **quickly access the detailed instrucitons for any recipe in the group.** so that I can **cook using the information presented to me**.
@@ -47,10 +38,16 @@
 
 ## UX
 
-* The site should **have it's features emmidiately accesable to a user** 
-* The site should **be easily navigated from page to page as it's purpose will be to assist the user in cooking rather then being their main focus of attention**
-* The site should **feel clean, simple and most of all intuative to the user as it will be the central hup for a commen family/friends experience**
-* The site should **be a familar place to return to after the initial intuatively learned experience** 
+* The site should have it's features emmidiately accesable to a user  
+* The user should have easily accesable recipes and be provided with basic instructions for its use
+* The users should be able to share their recipes with the group. This will include details of the recipe such as ingredients, cooking time, amount of people it serves, cooking instructions etc.
+* The user should be able to add their name to their recipe.
+* The user should be able to add their own image of their recipe.
+* The user should have the option of having their recipe analysed for it's nutrition and it be added to the recipe
+* The user should have the ability to edit or delete all recipes wihtin the group.
+* The site should be easily navigated from page to page as it's purpose will be to assist the user in cooking rather then being their main focus of attention
+* The site should feel clean, simple and most of all intuative to the user as it will be the central hup for a commen family/friends experience
+* The site should be a familar place to return to after the initial intuatively learned experience
 
 ## UI
 
@@ -59,12 +56,44 @@
 - Three simple and clear buttons in the main body of the landing page will provide easy options for lookin up, adding and editing recipes.
 - A footer with basic website information
 
-## Design
 
-### Fonts
+## Wireframes
 
-### Colours
+(See wireframes folder)
 
-## technology used:
+## Fonts
 
-* materialize version 0.110.2
+Google fonts wil be used thoughout. The font-familes will be indie flower and pangolin.
+
+## Colours
+
+
+
+## technology used
+
+### Front-End 
+- **HTML** for the base structure of the website
+- **CSS** for adding styles to HTML elements
+- **MATERIALISE** for frameworks
+- **JQUERY** for javascript functionality
+
+### Back-End
+
+- **FLASK** microframework
+- **FLASK-PYMONGO**
+- **DNSPYTHON** 
+
+- **HERUKO**
+
+- **PYTHON**
+- **PYMONGO**
+
+## Tools
+
+- [colorpicker.com](https://www.ginifab.com/feeds/pms/color_picker_from_image.php)
+- [whimsical Wireframes](https://whimsical.com/wireframes)
+
+
+## Testing
+
+[link to testing file]
